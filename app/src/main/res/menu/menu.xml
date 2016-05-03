@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_onsite"
+        android:orderInCategory="1"
+        android:showAsAction="never"
+        android:title="Off Site"/>
+    <item
+        android:id="@+id/action_connect"
+        android:orderInCategory="2"
+        android:showAsAction="never"
+        android:title="Connect"/>
+    <item
+        android:id="@+id/action_display"
+        android:orderInCategory="3"
+        android:showAsAction="never"
+        android:title="Display Options"/>
+    <item
+        android:id="@+id/action_demo"
+        android:orderInCategory="4"
+        android:showAsAction="never"
+        android:title="Demo Options"/>
+    <item
+        android:id="@+id/action_tagname"
+        android:orderInCategory="5"
+        android:showAsAction="never"
+        android:title="Tag Name"/>
+    <item
+        android:id="@+id/action_exit"
+        android:orderInCategory="6"
+        android:showAsAction="never"
+        android:title="Exit"/>
+
+</menu>
